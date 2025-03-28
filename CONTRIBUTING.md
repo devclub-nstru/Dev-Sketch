@@ -77,10 +77,6 @@ Dev-Sketch is an open-source collaborative platform for real-time drawing, codin
 - Proper authentication and input validation.
 - Adherence to security best practices.
 
-## Continuous Integration
-- Automated testing on PRs.
-- Linting and formatting checks.
-- Dependency security scanning.
 
 ## Documentation Standards
 - Keep `README.md` updated.
