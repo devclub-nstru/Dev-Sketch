@@ -1,7 +1,5 @@
 # 📚 Dev-Sketch - Collaborative Real-time Platform
 
-**Version:** 1.0
-
 ## 🎨 Introduction
 
 **Dev-Sketch** is a collaborative real-time platform that empowers users to draw, code, and communicate within shared virtual workspaces. It facilitates seamless creative and technical collaboration by integrating:
@@ -57,6 +55,8 @@
 | User Authentication      | OAuth for Google and GitHub login/signup.             | Must Have            |                                       |
 | Dynamic Multi-Peer Calls | Supports group voice communication.                   | Nice to Have         |                                       |
 | AI-Powered Assistance    | AI suggestions for coding and drawing.                | Future Consideration | Could be integrated using AI APIs.    |
+
+### And many more if you can think of any...
 
 ---
 
@@ -171,7 +171,6 @@ Contributions are welcome! Please adhere to the following:
 
 - Fork the repository and create a new branch.
 - Submit pull requests with detailed descriptions.
-- Ensure all tests pass before submission.
 
 ---
 
