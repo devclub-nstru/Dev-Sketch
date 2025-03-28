@@ -3,6 +3,13 @@
 ## About Dev-Sketch
 Dev-Sketch is an open-source collaborative platform for real-time drawing, coding, and communication. Contributors play a key role in enhancing its features and ensuring an optimal experience for users.
 
+## 📝 Issue Proposal Guidelines
+⚠️ **Important:**  
+All issue proposals must be submitted through the **DCODE Panel**.  
+🔗 **[Submit Proposal Here](https://dcode.codes/proposal)**  
+
+This ensures that all ideas and improvements are tracked and evaluated efficiently.  
+
 ## Tech Stack
 - **Frontend:** React, Next.js
 - **Backend:** Node.js, Express
