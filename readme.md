@@ -66,6 +66,15 @@ We're just getting started! Here's what's next:
 
 ---
 
+## 📝 Issue Proposal Guidelines
+⚠️ **Important:**  
+All issue proposals must be submitted through the **DCODE Panel**.  
+🔗 **[Submit Proposal Here](https://dcode.codes/proposal)**  
+
+This ensures that all ideas and improvements are tracked and evaluated efficiently.  
+
+---
+
 ## 🤝 Contribute to Dev-Sketch
 We welcome contributions from the community! Here's how you can help:
 
