@@ -4,6 +4,7 @@ import { ArrowRight, LockIcon, Pencil, Share2, Sparkles, User, User2Icon, Users 
 import axios from "axios";
 import { HTTP_Backend } from "@/config";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export default function SignUp() {
   const [isLoading, setIsLoading] = useState(false);
@@ -242,12 +243,12 @@ export default function SignUp() {
 
               <p className="mt-6 text-center text-sm text-zinc-400">
                 Already have an account?{' '}
-                <a 
+                <Link
                   href="/signin" 
                   className="font-medium text-teal-400 hover:text-teal-300 transition-colors"
                 >
                   Sign in
-                </a>
+                </Link>
               </p>
             </div>
           </div>
